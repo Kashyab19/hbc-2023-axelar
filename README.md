@@ -115,8 +115,13 @@ A survey done by Angela Wigenar and Cass Sunstein of Harvard University in 2019 
 
 ### Road Map
 1. Implement a native token
+
 Create and use native token for transactions and fees
+
 2. Global cross chain token interoperability
+
 Add functionality for every chain
+
 3. Multi-chain data accessibility
+
 Allow content providers to use any blockchain to store user data
