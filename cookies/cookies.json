@@ -1,0 +1,414 @@
+{
+  "walletAddress": "0x6f0bc44925977b6bbf64c9d57d7f96c05a18de7b",
+  "sessionID": "d66c893c-8ba6-4157-81c2-335e7e2328a1",
+  "userID": "5678901234",
+  "timestamp": "2023-04-01T09:00:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B08HVJDCY8",
+      "itemName": "Apple MacBook Pro 16-inch, 16GB RAM, 512GB SSD - Space Gray",
+      "itemPrice": 2199.00,
+      "quantity": 1
+    },
+    {
+      "itemID": "B07VGRJDFY",
+      "itemName": "Apple iPhone 11 Pro Max, 64GB, Midnight Green",
+      "itemPrice": 999.00,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "smart home",
+      "timestamp": "2023-03-31T14:30:00Z"
+    },
+    {
+      "query": "coffee machines",
+      "timestamp": "2023-03-29T12:00:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "pop",
+    "movies": "action",
+    "books": "mystery"
+  }
+}
+
+{
+  "walletAddress": "0x5d5c5a974e7b044f52ebd6d43f8e025b3422a142",
+  "sessionID": "f4a4e23e-8b2e-4a81-a3b7-945285f8ecb0",
+  "userID": "1234567890",
+  "timestamp": "2022-04-01T12:30:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B07YLD6Q2L",
+      "itemName": "Echo Dot (3rd Gen) - Smart speaker with Alexa",
+      "itemPrice": 29.99,
+      "quantity": 1
+    },
+    {
+      "itemID": "B08C3ZP2FX",
+      "itemName": "Fire TV Stick 4K streaming device",
+      "itemPrice": 49.99,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "smartwatch",
+      "timestamp": "2022-03-29T09:15:00Z"
+    },
+    {
+      "query": "laptop",
+      "timestamp": "2022-03-30T14:20:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "pop",
+    "movies": "action",
+    "books": "mystery"
+  }
+}
+
+
+{
+  "walletAddress": "0x1c8b85e6faa07bf767f7a803a20c756a7de621eb",
+  "sessionID": "5b3f8b3d-9ac9-42db-b555-6ec8e6d5f54c",
+  "userID": "0987654321",
+  "timestamp": "2022-04-01T10:00:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B08J6GMWGC",
+      "itemName": "Apple AirPods Pro",
+      "itemPrice": 249.00,
+      "quantity": 1
+    },
+    {
+      "itemID": "B08HN5S8DV",
+      "itemName": "Apple iPhone 13 Pro Max",
+      "itemPrice": 1099.00,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "laptop",
+      "timestamp": "2022-03-30T15:30:00Z"
+    },
+    {
+      "query": "smartphone",
+      "timestamp": "2022-03-31T10:45:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "hip hop",
+    "movies": "comedy",
+    "books": "romance"
+  }
+}
+
+
+{
+  "walletAddress": "0xabb05c8be0af42e0303eeb9fb2cb0dbcc23da7cc",
+  "sessionID": "a2f7a6f8-d6af-4f24-9cc2-7cc8e609752a",
+  "userID": "1357924680",
+  "timestamp": "2022-04-01T08:45:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B08L6PCZTR",
+      "itemName": "Fitbit Charge 5 Advanced Fitness Tracker",
+      "itemPrice": 179.95,
+      "quantity": 1
+    },
+    {
+      "itemID": "B07Q6ZWVT8",
+      "itemName": "Kindle Paperwhite – Now Waterproof with more than 2x the Storage",
+      "itemPrice": 139.99,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "yoga mat",
+      "timestamp": "2022-03-29T16:20:00Z"
+    },
+    {
+      "query": "healthy snacks",
+      "timestamp": "2022-03-30T11:15:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "jazz",
+    "movies": "comedy"
+  }
+}
+
+{
+  "walletAddress": "0x87a12d658a2f2df55b4a9c7c04492f8cf4ec7104",
+  "sessionID": "dd52a27a-84b9-4166-9e39-83a8a64f1302",
+  "userID": "2468101214",
+  "timestamp": "2022-04-01T14:30:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B09LDFMKKV",
+      "itemName": "Sony WH-1000XM4 Wireless Industry Leading Noise Canceling Overhead Headphones",
+      "itemPrice": 349.99,
+      "quantity": 1
+    },
+    {
+      "itemID": "B07S8Q9JZC",
+      "itemName": "Samsung Galaxy Tab S6 Lite 10.4",
+      "itemPrice": 399.99,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "camera",
+      "timestamp": "2022-03-29T12:15:00Z"
+    },
+    {
+      "query": "smartwatch",
+      "timestamp": "2022-03-31T16:50:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "classical",
+    "movies": "action",
+    "books": "mystery"
+  }
+}
+
+{
+  "walletAddress": "0x6c0117f0b5c5b50e29bdfceb9c0d2e5f5bb66252",
+  "sessionID": "71a1c36b-5795-463c-bd2e-bf5c7bca00bf",
+  "userID": "1357924680",
+  "timestamp": "2023-04-01T18:30:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B09K5MP7SM",
+      "itemName": "New Apple Watch Series 8 (GPS + Cellular, 44mm) - Gold Aluminum Case with Pink Sand Sport Band",
+      "itemPrice": 529.00,
+      "quantity": 1
+    },
+    {
+      "itemID": "B07HYBHBBQ",
+      "itemName": "Sony WH-1000XM4 Wireless Industry Leading Noise Canceling Overhead Headphones with Mic for Phone-Call",
+      "itemPrice": 348.00,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "fitness equipment",
+      "timestamp": "2023-03-29T19:00:00Z"
+    },
+    {
+      "query": "bluetooth speakers",
+      "timestamp": "2023-03-27T14:00:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "classical",
+    "movies": "drama",
+    "books": "history"
+  }
+}
+
+{
+  "walletAddress": "0x7fa480085c48bd1297fc0ec708cfacae7aeabf1e",
+  "sessionID": "a791e79c-9f38-4e96-a22e-157707f86b1c",
+  "userID": "2468013579",
+  "timestamp": "2023-04-02T08:15:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B0D8HJ5GG5",
+      "itemName": "Samsung 55 inch Neo QLED 4K Ultra HD Smart TV (2021) with Alexa Built-in",
+      "itemPrice": 1497.99,
+      "quantity": 1
+    },
+    {
+      "itemID": "B09VFP4Z4L",
+      "itemName": "Polk Audio React Soundbar with Alexa Voice Control Built-in, Dolby Digital and DTS Virtual Surround",
+      "itemPrice": 299.99,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "smart home devices",
+      "timestamp": "2023-04-01T19:30:00Z"
+    },
+    {
+      "query": "wireless earbuds",
+      "timestamp": "2023-03-31T12:00:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "rock",
+    "movies": "action",
+    "books": "mystery"
+  }
+}
+
+{
+  "walletAddress": "0x4f36c820fde9321e29c1d97e3e3d630fa17b27da",
+  "sessionID": "d1ec14b7-a52f-4696-bab2-1419cb31a902",
+  "userID": "3579024816",
+  "timestamp": "2023-04-02T15:45:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B08M91SSGK",
+      "itemName": "Samsung Galaxy S21 Ultra 5G | Factory Unlocked Android Cell Phone | US Version 5G Smartphone | Pro-Grade Camera, 8K Video, 108MP High Res | 128GB, Phantom Black (SM-G998UZKEXAA)",
+      "itemPrice": 1199.99,
+      "quantity": 1
+    },
+    {
+      "itemID": "B07YBVNXXJ",
+      "itemName": "Galaxy Buds True Wireless Earbuds (Wireless Charging Case included), Black – US Version",
+      "itemPrice": 129.99,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "cell phones",
+      "timestamp": "2023-04-02T12:00:00Z"
+    },
+    {
+      "query": "wireless earbuds",
+      "timestamp": "2023-04-01T16:30:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "pop",
+    "movies": "romantic comedy",
+    "books": "biography"
+  }
+}
+
+{
+  "walletAddress": "0xbe865c0a1ffed670a8c8f67de916a66d9a4a4f8b",
+  "sessionID": "f1e78b56-8db0-40d6-9e21-53b6c928dbd1",
+  "userID": "6741982352",
+  "timestamp": "2023-04-03T09:15:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B09M9F9L7R",
+      "itemName": "Apple iPhone 14 Pro Max (256GB) - Pacific Blue",
+      "itemPrice": 1499.00,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "smartphones",
+      "timestamp": "2023-04-03T08:00:00Z"
+    },
+    {
+      "query": "iPhone",
+      "timestamp": "2023-04-02T17:45:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "rock",
+    "movies": "action",
+    "books": "mystery"
+  }
+}
+
+{
+  "walletAddress": "0x47b40c9381d4f4a81d9cc7904b4cfb4e05bdf6dc",
+  "sessionID": "d98f05b7-39cc-463e-9f38-df861dbaf4d4",
+  "userID": "1208743546",
+  "timestamp": "2023-04-03T14:30:00Z",
+  "browserInfo": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36",
+    "language": "en-US,en;q=0.9",
+    "acceptEncoding": "gzip, deflate, br",
+    "acceptLanguage": "en-US,en;q=0.9"
+  },
+  "cartItems": [
+    {
+      "itemID": "B08XJ71FYT",
+      "itemName": "ASUS ZenBook Duo UX482EG-WS71T 14” FHD Touch Screen Laptop, Intel Core i7-1165G7 CPU, 16GB RAM, 1TB SSD, NVIDIA MX450, Stylus, Windows 11 Pro, Celestial Blue, UX482EG-WS71T",
+      "itemPrice": 1499.99,
+      "quantity": 1
+    },
+    {
+      "itemID": "B09B1WZHFB",
+      "itemName": "Microsoft Surface Slim Pen 2 - Midnight Blue",
+      "itemPrice": 129.99,
+      "quantity": 1
+    }
+  ],
+  "searchHistory": [
+    {
+      "query": "laptops",
+      "timestamp": "2023-04-03T12:00:00Z"
+    },
+    {
+      "query": "stylus",
+      "timestamp": "2023-04-02T16:15:00Z"
+    }
+  ],
+  "preferences": {
+    "music": "classical"
+  }
+}
+   
+
