@@ -1,13 +1,14 @@
 <h1 align="center">
-Harvard Blockchain Hackathon 2023
+CookieMart
 </h1>
 
 <h2 align="center">
-Axelar Track
-</h2>
 
-<h2 align="center">
-Cross Chain Data Marketplace
+HBC x EasyA 2023
+
+Cross-Chain Data Marketplace
+
+Axelar + Thirdweb Track
 </h2>
 
 <h3 align="center">
@@ -20,7 +21,7 @@ Web 1 platforms allowed users to access but not share information over the inter
 
 In today’s digital world, data is gold, and gold is money. Online services and applications collect vast amounts of user data through cookies, tracking mechanisms, and user accounts. The harvested information includes but is not limited to user demographics, browsing and purchase behavior, search queries, hardware specifics, and session information. This valuable data is sold and uploaded to data management platforms by both websites and data brokers. The data is parsed and segmented into groups based on different criteria. Advertisers browse and select the dataset, creating detailed personal profiles which are used to predict user behavior and interests in order to tailor specific ads that are more likely to generate clicks.
 
-Our cross chain data marketplace will allow users to claim a share of royalties from the data that is collected and sold. The purchaser of data can spend any token and the data marketplace will connvert said token to the desired token of the seller or any royaly owner.
+Our cross-chain data marketplace will allow users to claim a share of royalties from the data that is collected and sold. The purchaser of data can spend any token and with the use of Axelar, the data marketplace will receive the converted token to be sent to the desired chain of the seller or any royaly owner.
 
 ### Problem
 Users are not incentivized to participate in data collection, and hence not compensated for the data they produce, which is in turn sold and used for targeted advertisements. The current method of data collection and transacting is controversial due to privacy, transparency, and consent concerns. 
@@ -44,6 +45,9 @@ Although data driven advertising is an essential tool for businesses to reach th
 
 ### Axelar Implementation
 Royalty owners such as users, websites, the data marketplace, or advertisers will specify a desired destination chain they want to be paid in. The data purchaser will have the freedom to spend any token on the data. After buying the data, the token amount from the buyer(source chain) will be sent to the Axelar network where it is converted to the destination chain token. The new token will be sent to the Data Marketplace smart contract to be distributed to the correct royalty owners using the correct chain.
+
+### Thirdweb Implementation
+With the use of the Thirdweb SDK, we are able to allow the user to connect their crypto wallet to the DApp. Thirdweb's beautiful user interface makes it easy for developers to display functional and easy to understand user ready applications.
 
 ### Current Process
 Data Collection
@@ -83,10 +87,11 @@ Advertisers
 	- Clicks from users based on targeted ads
 	- Selling their own collected data to other companies
 		
-Data Management Platforms
+CookieMart
 - Who do they Pay
-	- N/A
+	- Site upkeep fees
 - How do they make money
+	- Royalties
 	- Selling data
 	- Site subscription/access
 	- Data transaction fees
@@ -114,17 +119,26 @@ In 2021, the average monthly price for a personal profile on Facebook was $2.50 
 A survey done by Angela Wigenar and Cass Sunstein of Harvard University in 2019 showed that the average participant was willing to pay $5 per month for demographic, identity, and health data privacy, but would on average accept $80 per month to give said data away.
 
 ### Road Map
-1. Implement a native token
+1. Cross-Chain Distribution DApp for Users
 
-Create and use native token for transactions and fees
+DApp that distributes payments and royalties to the destination chains
 
-2. Global cross chain token interoperability
+2. Native Token
 
-Add functionality for every chain
+Creation and sale of native ERC-20 token
+Owning token decreases fees and subscription costs
 
-3. Multi-chain data accessibility
+3. User to Business Data Transfer
 
-Allow content providers to use any blockchain to store user data
+Users can collect and list their own data to the marketplace
+
+4. Global Cross-Chain Payments
+
+Enable true cross-chain token conversion capability
+
+5. Global Cross-Chain Data Storage
+
+Allow data to be stored, retrieved, and purchased from any blockchain
 
 ### Axelar Experience
 Positive
@@ -136,6 +150,17 @@ Negative
 
 - Complex
 - Large amount of understanding to be done in short amount of time
+
+### Thirdweb Experience
+Positive
+
+- Beautiful UI
+- Easy to use once trained
+
+Negative
+
+- Documentation could be more detailed for React SDK users
+- Many bundling errors
 
 ### AxelarScan of Completed Transaction
 
