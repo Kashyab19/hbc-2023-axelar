@@ -126,12 +126,13 @@ Add functionality for every chain
 
 Allow content providers to use any blockchain to store user data
 
-Positive Experiences with Axelar
+### Axelar Experience
+Positive
 
 - Documentation is easy to read
 - Minor errors on local machine with example programs
 
-Negative Experiences with Axelar
+Negative
 
 - Complex
 - Large amount of understanding to be done in short amount of time
