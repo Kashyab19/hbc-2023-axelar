@@ -16,7 +16,7 @@ Vicken Matiossian,
 
 ### Summary
 
-Web 1 platforms allowed users to access but not share information over the internet. Web 2, where users became more active, allowed users to access, interact with, and share information over websites. Web 3 allows users to access, interacti with, share, and also own information over the internet. 
+Web 1 platforms allowed users to access but not share information over the internet. Web 2, where users became more active, allowed users to access, interact with, and share information over websites. Web 3 allows users to access, interact with, share, and also own information over the internet. 
 
 In today’s digital world, data is gold, and gold is money. Online services and applications collect vast amounts of user data through cookies, tracking mechanisms, and user accounts. The harvested information includes but is not limited to user demographics, browsing and purchase behavior, search queries, hardware specifics, and session information. This valuable data is sold and uploaded to data management platforms by both websites and data brokers. The data is parsed and segmented into groups based on different criteria. Advertisers browse and select the dataset, creating detailed personal profiles which are used to predict user behavior and interests in order to tailor specific ads that are more likely to generate clicks.
 
@@ -125,3 +125,16 @@ Add functionality for every chain
 3. Multi-chain data accessibility
 
 Allow content providers to use any blockchain to store user data
+
+Positive Experiences with Axelar
+
+- Documentation is easy to read
+- Minor errors on local machine with example programs
+
+Negative Experiences with Axelar
+
+- Complex
+- Large amount of understanding to be done in short amount of time
+
+### AxelarScan of Completed Transaction
+
