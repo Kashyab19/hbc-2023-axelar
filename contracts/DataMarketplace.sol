@@ -9,8 +9,25 @@ import { IAxelarGasService } from '@axelar-network/axelar-gmp-sdk-solidity/contr
 contract DistributionExecutable is AxelarExecutable {
     IAxelarGasService public immutable gasService;
 
+    string public value;
+    string public sourceChain;
+    string public sourceAddress;
+
+    address public owner;
+    mapping(address => string) public userData;
+    address[] public shareHolders;
+    address[] public receipients;
+    uint256 public totalRecipients = 0;
+
     constructor(address gateway_, address gasReceiver_) AxelarExecutable(gateway_) {
         gasService = IAxelarGasService(gasReceiver_);
+        owner = msg.sender;
+        receipients[totalRecipients++] = owner;
+    }
+
+    function newUserData(address user, string calldata uri) public {
+        userData[user] = uri;
+        receipients[totalRecipients++] = user;
     }
 
     function sendToMany(
