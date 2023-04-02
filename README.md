@@ -11,7 +11,7 @@ Cross Chain Data Marketplace
 </h2>
 
 <h3 align="center">
-Vicken Matiossian, 
+Vicken Matiossian, Babuaravind Gururaj, Burhanuddin Jinwala, Mahith Chigurupati, Kashyab Murali
 </h3>
 
 ### Summary
