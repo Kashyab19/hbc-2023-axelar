@@ -144,12 +144,12 @@ Allow data to be stored, retrieved, and purchased from any blockchain
 Positive
 
 - Documentation is easy to read
-- Minor errors on local machine with example programs
+- Cross-chain compatability
 
 Negative
 
-- Complex
-- Large amount of understanding to be done in short amount of time
+- Minor errors on local machine with example programs
+- Complex for amount of time given
 
 ### Thirdweb Experience
 Positive
