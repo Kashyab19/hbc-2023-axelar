@@ -1,0 +1,22 @@
+{
+  "name": "hbc-2023-axelar",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\"> Harvard Blockchain Hackathon 2023 </h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-personal:Kashyab19/hbc-2023-axelar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@axelar-network/axelar-gmp-sdk-solidity": "^3.2.1"
+  }
+}
