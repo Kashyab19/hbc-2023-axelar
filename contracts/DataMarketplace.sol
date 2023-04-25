@@ -15,7 +15,11 @@ contract DistributionExecutable is AxelarExecutable {
     string public sourceChain;
     string public sourceAddress;
 
-    address public owner;
+    //I see that there is no function to change the owner.
+    //So, it might be better to tag owner variable as "immutable" 
+    //as it will save gas (especially on deployment) and also it will
+    //also increase security.
+    address public immutable owner;
     mapping(address => string) public userData;
     address[] public shareHolders;
     address[] public receipients;
